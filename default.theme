@@ -94,7 +94,9 @@ ColorActiveWorkspaceButton="rgb:4b/46/f6"
 ColorActiveWorkspaceButtonText=#D3DAE3
 SmallIconSize=16
 
+# Dialog
+ColorDialog=#2f343f
+
 #Fonts
 TitleFontName="-*-verdana-bold-r-normal-*-13-*-*-*-p-*-koi8-r"
 TitleFontNameXft="verdana:size=10:bold"
-
