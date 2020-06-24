@@ -55,10 +55,6 @@ ColorMoveSizeStatusText=#D3DAE3
 ColorQuickSwitch=#2f343f
 ColorQuickSwitchText=#D3DAE3
 ColorQuickSwitchActive=#404552
-QuickSwitchHorzMargin=0
-QuickSwitchVertMargin=0
-QuickSwitchIconMargin=0
-QuickSwitchIconBorder=3
 QuickSwitchSeparatorSize=0
 
 #Scrollbar
