@@ -6,6 +6,10 @@ Forked in an attempt to keep it up to date and fix broken stuff.
 
 # Installation
 
+## Release
+
+Download the latest release from the [releases](https://github.com/Brottweiler/Arc-Dark/releases) page and extract it to `~/.icewm/themes`.
+
 ## Cloning from git
 
 Run these commands.
